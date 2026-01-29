@@ -1,1 +1,1 @@
-# how far i can go with this
+# this is lust print some diccionaries and list
